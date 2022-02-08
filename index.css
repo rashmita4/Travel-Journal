@@ -1,0 +1,38 @@
+.headstyle{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+  border: none;
+  background-color: #f7e5f3;
+  box-shadow: inset;
+
+}
+
+h2{
+  color: rgb(218, 155, 207);
+}
+.divStyle{
+  display: flex;
+}
+.placeDesign{
+  border: 2px solid white;
+  border-radius: 8px;
+  float: left;
+  
+}
+.data{
+ 
+  border: 2px solid plum;
+  box-shadow: 5 px;
+  border-radius: 80px;
+  padding: 38px;
+  text-align: right;
+  font-size: medium;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  
+
+}
